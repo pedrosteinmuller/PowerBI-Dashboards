@@ -14,12 +14,12 @@ O curso aborda conceitos essenciais de **Business Intelligence (BI)** e **Data S
 ## 📷 Dashboards Criados
 Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 
-| Dashboard | Descrição |
+| Capítulo do curso - Dashboard | Descrição |
 |-----------|-----------|
-| 📊 **Análise de Vendas** | Dashboard que analisa o desempenho de vendas por região, produto e período. |
-| 💰 **Dashboard02** | em breve... |
-| 🏆 **Dashboard03** | em breve... |
-| 📦 **Dashboard04** | em breve... |
+|**Cap02 - Análise de Vendas - Primeiros passos com o Power BI** | Dashboard que analisa o desempenho de vendas por região, produto e período. |
+|**Cap03 - Modelagem, Relacionamento e Dax** | Dashboard de Vendas, Custo, Margem de Lucro e KPI. |
+|**Cap04 - Power BI para análise de dados de Marketing** | Conceitos de Marketing e respondendo perguntas de negócio. |
+|**Dashboard04** | em breve... |
 
 ## 🚀 Como Utilizar
 1. Clone ou faça o download do repositório:
