@@ -20,6 +20,8 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap03 - Modelagem, Relacionamento e DAX** | Dashboard de Vendas, Custo, Margem de Lucro e KPI. |
 |**Cap04 - Power BI para análise de dados de Marketing** | Conceitos de Marketing e respondendo perguntas de negócio. |
 |**Cap05 - Power BI para análise de dados Comerciais** | Dashboard que mostra a performance de vendas. |
+|**Cap06 - Power BI para análise de dados de Recursos Humanos** | Insights sobre a área de negócio de recursos humanos que são importantes para as empresas. |
+
 
 ## 🚀 Como Utilizar
 1. Clone ou faça o download do repositório:
