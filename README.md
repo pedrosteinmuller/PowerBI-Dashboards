@@ -21,6 +21,7 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap04 - Power BI para análise de dados de Marketing** | Conceitos de Marketing e respondendo perguntas de negócio. |
 |**Cap05 - Power BI para análise de dados Comerciais** | Dashboard que mostra a performance de vendas. |
 |**Cap06 - Power BI para análise de dados de Recursos Humanos** | Insights sobre a área de negócio de recursos humanos que são importantes para as empresas. |
+|**Cap07 - Power BI para análise de dados de Logística** | Aprendendo sobre a área da logística e métricas importantes para análise das entregas. |
 
 
 ## 🚀 Como Utilizar
