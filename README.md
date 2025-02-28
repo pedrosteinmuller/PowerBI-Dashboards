@@ -23,6 +23,7 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap06 - Power BI para análise de dados de Recursos Humanos** | Insights sobre a área de negócio de recursos humanos que são importantes para as empresas. |
 |**Cap07 - Power BI para análise de dados de Logística** | Aprendendo sobre a área da logística e métricas importantes para análise das entregas. |
 |**Cap08 - Power BI para análise de dados Financeiros** | Transformando dados brutos de Excel para dashboard apresentável, contendo dados financeiros e análises relevantes sobre a área de negócio, entendendo mais seu funcionamento. |
+|**Cap09 - Power BI para análise de dados Contábeis** | Criando uma matriz para realizar o balanço patrimonial de dados de uma empresa fictícia. |
 
 
 ## 🚀 Como Utilizar
