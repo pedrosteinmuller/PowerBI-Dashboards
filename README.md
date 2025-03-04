@@ -12,8 +12,6 @@ O curso aborda conceitos essenciais de **Business Intelligence (BI)** e **Data S
 - Publicação e compartilhamento de relatórios na nuvem ☁️
 
 ## 📷 Dashboards Criados
-Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
-
 | Capítulo do Curso - Dashboard | Descrição |
 |-----------|-----------|
 |**Cap02 - Análise de Vendas - Primeiros passos com o Power BI** | Dashboard que analisa o desempenho de vendas por região, produto e período. |
@@ -26,6 +24,7 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap09 - Power BI para análise de dados Contábeis** | Criando uma matriz para realizar o balanço patrimonial de dados de uma empresa fictícia. |
 |**Cap10 - Power BI para análise de dados de Mercado de Ações** | Trabalhando com  dados  reais  extraídos  do  portal  da  Nasdaq para gerar dashboard analítico do mercado de ações com narrativa inteligente. |
 |**Cap11 - Estatística Fundamental para Data Science** | Introdução sobre estatística, voltada para análise e ciência de dados. |
+|**Cap12 - Limpeza e Manipulação de Dados com Power BI** | Dashboard criado a partir de uma análise exploratória dos dados, com o objetivo de realizar a limpeza e tratamento dos dados, lidando com Outliers e evitando dados duplicados. |
 
 ## 📢 Contato
 Caso tenha dúvidas ou queira trocar experiências sobre **Power BI**, **Business Intelligence** ou **Data Science**, sinta-se à vontade para me contatar:
