@@ -27,14 +27,6 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap10 - Power BI para análise de dados de Mercado de Ações** | Trabalhando com  dados  reais  extraídos  do  portal  da  Nasdaq para gerar dashboard analítico do mercado de ações com narrativa inteligente. |
 |**Cap11 - Estatística Fundamental para Data Science** | Introdução sobre estatística, voltada para análise e ciência de dados. |
 
-## 🚀 Como Utilizar
-1. Clone ou faça o download do repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/Dashboards_PowerBI_DSA.git
-   ```
-2. Navegue até a pasta **imagens** para visualizar os dashboards.
-3. Caso tenha interesse, siga o curso na **DSA - Data Science Academy** para reproduzir os painéis no Power BI.
-
 ## 📢 Contato
 Caso tenha dúvidas ou queira trocar experiências sobre **Power BI**, **Business Intelligence** ou **Data Science**, sinta-se à vontade para me contatar:
 
