@@ -1,6 +1,6 @@
 # 📊 Dashboards Power BI - Curso DSA
 
-Este repositório contém capturas de tela (prints) dos dashboards desenvolvidos durante o curso **Microsoft Power BI Para Business Intelligence e Data Science** da **DSA (Data Science Academy)**. O objetivo é documentar e compartilhar os aprendizados adquiridos ao longo do curso.
+Este repositório contém capturas de tela (prints) dos dashboards e o próprio arquivo .pbix do Power BI, desenvolvidos durante o curso   **Microsoft Power BI Para Business Intelligence e Data Science** da **DSA (Data Science Academy)**. O objetivo é documentar e compartilhar os aprendizados adquiridos ao longo do curso.
 
 ## 📌 Sobre o Curso
 O curso aborda conceitos essenciais de **Business Intelligence (BI)** e **Data Science**, utilizando o **Microsoft Power BI** como ferramenta principal para visualização e análise de dados. Os tópicos incluem:
