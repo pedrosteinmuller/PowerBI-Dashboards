@@ -25,6 +25,7 @@ Aqui estão alguns dos dashboards desenvolvidos ao longo do curso:
 |**Cap08 - Power BI para análise de dados Financeiros** | Transformando dados brutos de Excel para dashboard apresentável, contendo dados financeiros e análises relevantes sobre a área de negócio, entendendo mais seu funcionamento. |
 |**Cap09 - Power BI para análise de dados Contábeis** | Criando uma matriz para realizar o balanço patrimonial de dados de uma empresa fictícia. |
 |**Cap10 - Power BI para análise de dados de Mercado de Ações** | Trabalhando com  dados  reais  extraídos  do  portal  da  Nasdaq para gerar dashboard analítico do mercado de ações com narrativa inteligente. |
+|**Cap11 - Estatística Fundamental para Data Science** | Introdução sobre estatística, voltada para análise e ciência de dados. |
 
 ## 🚀 Como Utilizar
 1. Clone ou faça o download do repositório:
