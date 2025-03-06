@@ -30,6 +30,7 @@ O curso aborda conceitos essenciais de **Business Intelligence (BI)** e **Data S
 |**Cap15 - SQL Analytics** | Revisando Querys SQL e como utilizar no Power BI. |
 |**Cap16 - Machine Learning e Power BI para segmentação de clientes** | Machine Learning com Python e Power BI dentro do Jupyter Notebook. |
 |**Cap17 - Machine Learning e Power BI para detecção de anomalias** | Detecção de anomalias em transações financeiras com linguagem R e Power BI. |
+|**Cap18 - Inteligência Artificial e Análise de Séries Temporais com Power BI** | Principais técnicas para análise de séries temporais, que é uma técnica estatística para ajudar na previsão de dados futuros. |
 
 
 ## 📢 Contato
