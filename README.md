@@ -27,6 +27,7 @@ O curso aborda conceitos essenciais de **Business Intelligence (BI)** e **Data S
 |**Cap12 - Limpeza e Manipulação de Dados com Power BI** | Dashboard criado a partir de uma análise exploratória dos dados, com o objetivo de realizar a limpeza e tratamento dos dados, lidando com Outliers e evitando dados duplicados. |
 |**Cap13 - Manipulação de Dados com Power Query M Language** | Aprendendo e praticando expressões DAX e linguagem M para processos de ETL sem geração de dashboard, mas com aquisição de conhecimento teórico e prático de DAX e linguagem M. |
 |**Cap14 - Power BI e Banco de Dados** | Trabalhando com Power BI e Banco de Dados para Extração e Análise de Dados. |
+|**Cap15 - SQL Analytics** | Revisando Querys SQL e como utilizar no Power BI. |
 
 ## 📢 Contato
 Caso tenha dúvidas ou queira trocar experiências sobre **Power BI**, **Business Intelligence** ou **Data Science**, sinta-se à vontade para me contatar:
